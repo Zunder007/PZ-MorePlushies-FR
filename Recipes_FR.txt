@@ -1,0 +1,4 @@
+Recipes_FR = {
+	Recipe_Zip = "Fermer la fermeture éclair",
+	Recipe_Unzip = "Ouvrir la fermeture éclair",
+}
