@@ -1,0 +1,12 @@
+Sandbox_FR = {
+	Sandbox_MorePlushies = "More Plushies",
+	Sandbox_MorePlushies_LootGeneral = "Paramètres généraux du butin",
+	Sandbox_MorePlushies_LootGeneral_tooltip = "Établit la quantité de base de peluches à piller lors de la distribution",
+	Sandbox_MorePlushies_SpawnRate = "Multiplicateur de taux d'apparition",
+	Sandbox_MorePlushies_SpawnRate_tooltip = "Le taux d'apparition par défaut est très faible, plus le nombre est élevé, plus les peluches sont abondantes",
+	Sandbox_MorePlushies_LootGeneral_option1 = "Bas",
+	Sandbox_MorePlushies_LootGeneral_option2 = "Normal",
+	Sandbox_MorePlushies_LootGeneral_option3 = "Haut",
+	Sandbox_MorePlushies_LootGeneral_option4 = "Très Haut",
+	Sandbox_MorePlushies_LootGeneral_option5 = "Délirant",
+}
